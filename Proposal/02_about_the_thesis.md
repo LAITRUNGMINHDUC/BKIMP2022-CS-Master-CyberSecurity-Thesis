@@ -45,11 +45,11 @@ Preserving privacy for Publishing Time-series data with Differential Privacy
 
 ## Implementation Plan
 
-| **Week**       | **Task**                                                                                                                                                                                                                                                                   | **Time**     |
-|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-|                | **Thesis proposal defense**                                                                                                                                                                                                                                                | **Jun 2022** |
-| **W1 to W2**   | - Conduct the literature review   and methodology to conduct the study. Define scope of work for the main   research of the thesis<br>     - Write up the report                                                                                                           | 2 weeks      |
-| **W3 to W4**   | - Research of related   works/projects on Differential Privacy, Time-series privacy<br>     - Write up the report (cont.)                                                                                                                                                  | 2 weeks      |
-| **W5 to W14**  | - Implementing the   state-of-the-art algorithms of Differential Privacy on Time-series data<br>     - Comparing those algorithms with data utility metrics<br>     - Finding the data characteristics to choose the best algorithms<br>     - Write up the report (cont.) | 10 weeks     |
-| **W15 to W16** | - Finalize the solution   package<br>     - Finalize the document<br>     - Preparing the presentation                                                                                                                                                                     | 2 weeks      |
-|                | **Thesis defense**                                                                                                                                                                                                                                                         | **Dec 2022** |
+| **Week** 	| **Task** 	| **Time** 	|
+|:---:	|:---:	|:---:	|
+|  	| **Thesis proposal defense** 	| **Jun 2022** 	|
+| **W1 to W2** 	| - Conduct the literature review and methodology <br>to conduct the study. <br>- Define scope of work for the main research <br>of the thesis<br>- Write up the report 	| 2 weeks 	|
+| **W3 to W4** 	| - Research of related works/projects on <br>Differential Privacy, Time-series privacy<br>- Write up the report (cont.) 	| 2 weeks 	|
+| **W5 to W14** 	| - Implementing the state-of-the-art algorithms of <br>Differential Privacy on Time-series data<br>- Comparing those algorithms with data utility metrics<br>- Finding the data characteristics to choose <br>the best algorithms<br>- Write up the report (cont.) 	| 10 weeks 	|
+| **W15 to W16** 	| - Finalize the solution package<br>- Finalize the document<br>- Prepare the presentation 	| 2 weeks 	|
+|  	| **Thesis defense** 	| **Dec 2022** 	|
