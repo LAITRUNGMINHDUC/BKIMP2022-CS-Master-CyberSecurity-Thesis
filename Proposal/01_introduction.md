@@ -4,6 +4,11 @@
 
 ## The urgency of this study
 
+The main reason of choosing this topic: **Preserving privacy for Publishing Time-series data with Differential Privacy** is to apply the knowledge in Differential Privacy with multiple mechanisms into the practical challenges in protecting privacy for Publishing Time-series data to outsourcing analytics services. The ultimate goal is protecting privacy of individual while keeping the Time-series data features *(auto-correlation, trends and seasonality, data distribution, and forecast-able)*. While some of the current solutions likes *Anonymization, k-Anonymity, l-Diversity* aren't enough for fighting against the re-identification process from attacker (mostly, with *linkage attack*), also it's not compatible with the concept of Big Data because of their complexity in algorithms; thereby, it is a huge demand on researching a new mechanism, and Differential Privacy is becoming one of the big research fields since 2006 when it first came.
+
+![The Google Search Trends for Differential Privacy - k-Anonymity - l-Diversity - Data Anonymization from 2017-2022 (Source: Google Trends - updated 29 May 2022)](figures/google-trends-differential-privacy.png)
+
+In the next 3 sections, it will be clearer for explaining the urgency of this study via 3 aspects: the social motivation on privacy research, the differential privacy as the emerging mechanisms for protecting privacy, and the trending in publishing time-series data for analysis.
 
 ## Social motivation on Privacy research
 
@@ -21,4 +26,8 @@ Therefore, it's obviously a big need for researching in protecting privacy, and 
 
 ## Differential Privacy as a new challenger in this journey
 
+Bla bla
+
 ## Time-series data as the subject of concern
+
+Bla bla
