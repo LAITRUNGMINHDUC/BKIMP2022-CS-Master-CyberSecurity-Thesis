@@ -1,0 +1,19 @@
+---
+title: Preserving privacy for Sharing Time-series data with Differential Privacy
+subtitle: Master Thesis Proposal - under supervised of Assoc. Prof. DANG TRAN KHANH
+author: 
+    - Lai Trung Minh Duc
+    - VNU Ho Chi Minh City - University of Technology
+date: \today{}
+geometry: margin=2cm
+indent: True
+header-includes:
+    - \usepackage{setspace}
+    - \doublespacing
+    - \usepackage{fancyhdr}
+    - \pagestyle{fancy}
+    - \lhead{Student - Lai Trung Minh Duc}
+    - \rhead{Instructor - Assoc. Prof. DANG TRAN KHANH}
+---
+
+\pagebreak
