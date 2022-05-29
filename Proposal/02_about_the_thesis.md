@@ -4,7 +4,7 @@
 
 ## Topic
 
-Preserving privacy for Sharing Time-series data with Differential Privacy
+Preserving privacy for Publishing Time-series data with Differential Privacy
 
 ## Objectives
 
@@ -29,7 +29,7 @@ Preserving privacy for Sharing Time-series data with Differential Privacy
 
 ## Thesis Layout
 
-1. A brief introduction about the social motivation on Data Privacy in the Big Data era; the impact on individual privacy of Time-series analysis on Big Data; the Differential Privacy research area as the emerging research fields.
+1. A brief introduction about the social motivation on Data Privacy in the Big Data era; the impact on individual privacy of Time-series analysis on Big Data; the benefits and risks of Publishing Time-series data for outsourcing analytics; and the Differential Privacy research area as the emerging research fields.
 
 2. A detail analysis of current privacy-protection mechanisms: *Anoynization, k-Anonimity, l-Diversity, PCA,...*; the constraint of the algorithms in Big Data era; and some attack techniques to: *de-identification, re-identification, linkage attack, aggregation and statistics,...*.
 
