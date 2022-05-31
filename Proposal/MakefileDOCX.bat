@@ -1,0 +1,1 @@
+pandoc template.yaml 01_introduction.md 02_about_the_thesis.md 03_literature_review.md 04_references.md --bibliography=references.bib -o PROPOSAL_SUBMISSION.docx --toc -s --mathjax
