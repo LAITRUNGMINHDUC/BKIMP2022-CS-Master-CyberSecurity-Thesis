@@ -3,15 +3,15 @@ title: |
         | Preserving privacy for Publishing-Time-series data
         | with Differential Privacy
 subtitle: |
-        | Master Thesis Proposal 
-        | Under instruction & supervised of Assoc. Prof. DANG TRAN KHANH
+            | Master Thesis Proposal 
+            | Under instruction & supervised of Assoc. Prof. DANG TRAN KHANH
 author: | 
         | Lai Trung Minh Duc
         | VNU Ho Chi Minh City - University of Technology
-date: \today{}
 geometry: margin=2cm
+documentclass: scrartcl
+date: \today{}
 indent: True
-documentclass: extarticle
 fontsize: 12pt
 header-includes:
     - \usepackage{setspace}
@@ -20,6 +20,7 @@ header-includes:
     - \pagestyle{fancy}
     - \lhead{Student - Lai Trung Minh Duc}
     - \rhead{Instructor - Assoc. Prof. DANG TRAN KHANH}
+bibliography: references.bib
+nocite: '@*'
+csl: apa.csl
 ---
-
-\pagebreak
